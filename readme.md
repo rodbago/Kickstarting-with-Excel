@@ -7,7 +7,7 @@
 
 ## Analysis and Challenges
 
-![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Launch Date
 
