@@ -1,10 +1,13 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
+- mi com
+  - nj
 ### Purpose
 
 ## Analysis and Challenges
+
+![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Launch Date
 
