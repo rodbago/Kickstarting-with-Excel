@@ -11,6 +11,7 @@
 ## Analysis and Challenges
 
 -The tabular data is well organaised but I did some changes to the format.
+
 -Formulas were incorrect I fixed it by cheking the functions.
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
